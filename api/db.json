@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "email": "can@hotmail.com",
+      "username": "canboz",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "email": "ikoc4562@gmail.com",
+      "username": "isa",
+      "password": "45624562",
+      "id": 2
+    },
+    {
+      "email": "ikoc4562@gmail.com",
+      "username": "isa",
+      "password": "45624562",
+      "id": 3
+    },
+    {
+      "email": "ikoc4562@gmail.com",
+      "username": "isa",
+      "password": "45624562",
+      "id": 4
+    },
+    {
+      "email": "ikoc4562@gmail.com",
+      "username": "isa",
+      "password": "45624562",
+      "id": 5
+    }
+  ],
+  "questions": [
+    {
+      "username": "canboz",
+      "question": "Test Soru",
+      "solutions": [
+        {
+          "username": "canboz",
+          "solution": "sdasdsadasd",
+          "plus": [],
+          "minus": [
+            1,
+            2
+          ]
+        },
+        {
+          "username": "canboz",
+          "solution": "Test",
+          "plus": [
+            2
+          ],
+          "minus": []
+        },
+        {
+          "username": "isa",
+          "solution": "Deneme cevap",
+          "plus": [],
+          "minus": []
+        }
+      ],
+      "id": 1
+    },
+    {
+      "username": "canboz",
+      "question": "Angular Kolay mı",
+      "solutions": [],
+      "id": 2
+    },
+    {
+      "username": "isa",
+      "question": "deneme",
+      "solutions": [],
+      "id": 3
+    }
+  ]
+}
