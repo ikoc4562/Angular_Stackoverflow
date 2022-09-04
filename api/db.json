@@ -1,44 +1,20 @@
 {
   "users": [
     {
-      "email": "can@hotmail.com",
-      "username": "canboz",
+      "email": "ikoc4562@gmail.com",
+      "username": "Isa",
       "password": "12345678",
       "id": 1
-    },
-    {
-      "email": "ikoc4562@gmail.com",
-      "username": "isa",
-      "password": "45624562",
-      "id": 2
-    },
-    {
-      "email": "ikoc4562@gmail.com",
-      "username": "isa",
-      "password": "45624562",
-      "id": 3
-    },
-    {
-      "email": "ikoc4562@gmail.com",
-      "username": "isa",
-      "password": "45624562",
-      "id": 4
-    },
-    {
-      "email": "ikoc4562@gmail.com",
-      "username": "isa",
-      "password": "45624562",
-      "id": 5
     }
   ],
   "questions": [
     {
-      "username": "canboz",
-      "question": "Test Soru",
+      "username": "Isa",
+      "question": "Question 1",
       "solutions": [
         {
-          "username": "canboz",
-          "solution": "sdasdsadasd",
+          "username": "Isa",
+          "solution": "Answer 1",
           "plus": [],
           "minus": [
             1,
@@ -46,33 +22,21 @@
           ]
         },
         {
-          "username": "canboz",
-          "solution": "Test",
+          "username": "Isa",
+          "solution": "Question 2",
           "plus": [
             2
           ],
           "minus": []
         },
         {
-          "username": "isa",
-          "solution": "Deneme cevap",
+          "username": "Isa",
+          "solution": "Answer 2",
           "plus": [],
           "minus": []
         }
       ],
       "id": 1
-    },
-    {
-      "username": "canboz",
-      "question": "Angular Kolay mı",
-      "solutions": [],
-      "id": 2
-    },
-    {
-      "username": "isa",
-      "question": "deneme",
-      "solutions": [],
-      "id": 3
     }
   ]
 }
